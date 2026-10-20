@@ -1,0 +1,13 @@
+{
+  "item.modernwarfare.assault_rifle": "Assault Rifle",
+  "item.modernwarfare.combat_pistol": "Combat Pistol",
+  "item.modernwarfare.rifle_ammo": "Rifle Ammunition",
+  "item.modernwarfare.armor_plate": "Armor Plate",
+  "item.modernwarfare.field_medkit": "Field Medkit",
+  "key.modernwarfare.prone": "Toggle Prone / Crawl",
+  "key.modernwarfare.reload": "Reload Weapon",
+  "key.modernwarfare.revive": "Revive Nearby Player",
+  "key.modernwarfare.finish": "Finish Nearby Downed Player",
+  "key.modernwarfare.slide": "Slide",
+  "category.modernwarfare": "Modern Warfare"
+}

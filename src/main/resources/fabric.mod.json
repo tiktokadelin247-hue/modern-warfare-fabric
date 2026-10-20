@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "id": "modernwarfare",
+  "version": "${version}",
+  "name": "Modern Warfare",
+  "description": "A multiplayer-friendly tactical combat mod: firearms, armor, prone movement, downed state and revives.",
+  "authors": ["Mod project generated with ChatGPT"],
+  "license": "MIT",
+  "environment": "*",
+  "entrypoints": {
+    "main": ["com.modernwarfare.ModernWarfare"],
+    "client": ["com.modernwarfare.client.ModernWarfareClient"]
+  },
+  "depends": {
+    "fabricloader": ">=0.15.0",
+    "minecraft": "1.20.1",
+    "java": ">=17",
+    "fabric-api": "*"
+  }
+}

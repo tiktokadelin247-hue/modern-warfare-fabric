@@ -1,0 +1,13 @@
+{
+  "item.modernwarfare.assault_rifle": "Штурмова гвинтівка",
+  "item.modernwarfare.combat_pistol": "Бойовий пістолет",
+  "item.modernwarfare.rifle_ammo": "Гвинтівкові набої",
+  "item.modernwarfare.armor_plate": "Бронепластина",
+  "item.modernwarfare.field_medkit": "Польова аптечка",
+  "key.modernwarfare.prone": "Лежати / повзати",
+  "key.modernwarfare.reload": "Перезарядити зброю",
+  "key.modernwarfare.revive": "Підняти гравця поруч",
+  "key.modernwarfare.finish": "Добити пораненого гравця",
+  "key.modernwarfare.slide": "Ковзання",
+  "category.modernwarfare": "Modern Warfare"
+}
